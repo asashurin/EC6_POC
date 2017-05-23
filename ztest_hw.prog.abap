@@ -7,4 +7,5 @@
 *&---------------------------------------------------------------------*
 
 REPORT ZTEST_HW.
-write:/ 'Hello, wolrd !'.
+write:/ 'Hello, big starnge wolrd !'.
+write:/ 'Hello, again !'.
