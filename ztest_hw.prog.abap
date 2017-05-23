@@ -9,3 +9,4 @@
 REPORT ZTEST_HW.
 write:/ 'Hello, big starnge wolrd !'.
 write:/ 'Hello, again !'.
+write:/ 'By, see you later !'.
